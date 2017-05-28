@@ -1,2 +1,2 @@
 # CSVCrawler
-Extracts user:password couples in a csv files and puts them into a file. Supports sqlmap already cracked files
+Extracts user:password pairs in a csv file and outputs them to a file. Supports sqlmap already cracked files.
